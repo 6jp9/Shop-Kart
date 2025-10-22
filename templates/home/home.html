@@ -27,8 +27,8 @@
 <div class="container mt-4">
   <div class="row justify-content-center">
     {% for i in products %}
-    <div class="col-6 col-sm-6 col-md-4 col-lg-3 mb-4 d-flex justify-content-center" style="width: fit-content;">
-      <div class="card h-100 w-100">
+    <div class="col-6 col-sm-6 col-md-4 col-lg-3 mb-4 d-flex justify-content-center" id="formobile" style="width: fit-content;">
+      <div class="card h-100 w-100" id="formobile">
         <img src="{{ i.image.url }}" alt="{{ i.name }}" height="180" class="card-img-top object-fit-cover">
         <div class="card-body d-flex flex-column">
           <h5 class="card-title text-truncate" style="min-height: 40px;">{{ i.name|truncatechars:25 }}</h5>

@@ -343,3 +343,11 @@ footer ul li {
   align-items: center;
   gap: 5px;
 }
+
+@media (max-width:430px) {
+  #formobile {
+    width: 100%;
+    padding: 0 10px;
+    box-sizing: border-box;
+  }
+}
