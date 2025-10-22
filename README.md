@@ -8,10 +8,17 @@
 ![SMTP](https://img.shields.io/badge/email-OTP%20verification-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Issues](https://img.shields.io/github/issues/6jp9/Shop-at-JP)
+[![Live Site](https://img.shields.io/badge/Live-Site-green)](http://3.26.190.129:8000)
+
 
 
 **Shop@JP (Django, Python, MySQL, Stripe API, HTML, CSS, Bootstrap, JavaScript, SMTP)**  
 A full-stack e-commerce platform for merchants and customers featuring secure Stripe payments, OTP email verification, order management, refunds, and responsive UI.
+
+---
+
+🌐 **Live Site:**  
+The Shop@JP project is now live and running on AWS! You can check it out here: [http://3.26.190.129:8000](http://3.26.190.129:8000)
 
 ---
 
